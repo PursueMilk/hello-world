@@ -1,7 +1,8 @@
 test
 this is add
 123
+<<<<<<< HEAD
 
-modify master
 123
 123123123
+123
